@@ -1,4 +1,4 @@
-# Sample AEM project template Updated for Dev branch
+# Sample AEM project template Updated for Feature branch hero component
 
 This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
 
